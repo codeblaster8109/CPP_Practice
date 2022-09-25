@@ -1,0 +1,1 @@
+This file comsists of mainly my practice codes when I begin my Code journey. This repositry also marks another beginning for me. From here onwards I try to maintain my github account and learn to contribute to Open Source Projects.
